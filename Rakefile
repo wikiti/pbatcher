@@ -13,16 +13,13 @@ require 'rake'
 
 require 'juwelier'
 Juwelier::Tasks.new do |gem|
-  # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
   gem.name = "pbatcher"
   gem.homepage = "http://github.com/wikiti/pbatcher"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "wikiti.doghound@gmail.com"
+  gem.summary = %Q{A simple library to create CLI batch applications.}
+  gem.description = %Q{Process Batcher (or `pbatcher`) is a ruby gem used to build quick CLI apps to process batches of tasks.}
+  gem.email = "info@danielherzog.es"
   gem.authors = ["Daniel Herzog"]
-
-  # dependencies defined in Gemfile
 end
 Juwelier::RubygemsDotOrgTasks.new
 
