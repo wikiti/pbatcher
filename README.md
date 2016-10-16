@@ -1,4 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/pbatcher.svg)](https://badge.fury.io/rb/pbatcher) [![Dependency Status](https://gemnasium.com/badges/github.com/wikiti/pbatcher.svg)](https://gemnasium.com/github.com/wikiti/pbatcher) [![CircleCI](https://circleci.com/gh/wikiti/pbatcher.svg?style=shield)](https://circleci.com/gh/wikiti/pbatcher)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE.md) [![Gem Version](https://badge.fury.io/rb/pbatcher.svg)](https://badge.fury.io/rb/pbatcher) [![Dependency Status](https://gemnasium.com/badges/github.com/wikiti/pbatcher.svg)](https://gemnasium.com/github.com/wikiti/pbatcher) [![CircleCI](https://circleci.com/gh/wikiti/pbatcher.svg?style=shield)](https://circleci.com/gh/wikiti/pbatcher)
 
 # Process Batcher
 
